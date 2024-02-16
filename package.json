@@ -3,8 +3,7 @@
     "console.table": "^0.10.0",
     "dotenv": "^16.4.4",
     "inquirer": "^8.2.6",
-    "mysql2": "^3.7.0",
-    "sequelize": "^6.37.0"
+    "mysql2": "^3.7.0"
   },
   "scripts": {
     "start": "node server.js"
