@@ -1,4 +1,5 @@
 # Employee-Tracker
+Employee tracker is a SQL employee database tracker. The interfaces allows everyone to easily view and interact with information through the command-line of the application stored in the database!
 
 ## User Story
 
@@ -29,3 +30,14 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
 ```
+
+## Screenshots
+![start](./assets/images/trackerstart.png)
+![mid](./assets/images/trackermid.png)
+![end](./assets/images/trackerend.png)
+
+## Links
+
+[GitHub Link](https://github.com/Leonn24/Employee-Tracker)
+
+[Video Preview](https://youtu.be/eKu6VcrJmqE)
