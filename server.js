@@ -44,7 +44,7 @@ function startApp() {
         updateEmployeeRole();
         break;
       case "Exit":
-        connection.end();
+        db.end();
         console.log("Goodbye!");
         break;
     }
